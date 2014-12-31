@@ -1,0 +1,34 @@
+E:\Formations\Plate Form .Net\Module Client Serveur\Exercices\Exercice 1 - Gestion des stagiaires\GestionDesStagiaires\GestionDesStagiaires\bin\Debug\GestionDesStagiaires.exe
+E:\Formations\Plate Form .Net\Module Client Serveur\Exercices\Exercice 1 - Gestion des stagiaires\GestionDesStagiaires\GestionDesStagiaires\bin\Debug\GestionDesStagiaires.pdb
+E:\Formations\Plate Form .Net\Module Client Serveur\Exercices\Exercice 1 - Gestion des stagiaires\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Formations\Plate Form .Net\Module Client Serveur\Exercices\Exercice 1 - Gestion des stagiaires\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.Properties.Resources.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\Exercices\Exercice 1 - Gestion des stagiaires\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Formations\Plate Form .Net\Module Client Serveur\Exercices\Exercice 1 - Gestion des stagiaires\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Formations\Plate Form .Net\Module Client Serveur\Exercices\Exercice 1 - Gestion des stagiaires\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.exe
+E:\Formations\Plate Form .Net\Module Client Serveur\Exercices\Exercice 1 - Gestion des stagiaires\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.pdb
+E:\Formations\Plate Form .Net\Module Client Serveur\Exercices\Exercice 1 - Gestion des stagiaires\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.MenuApplication.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\Exercices\Exercice 1 - Gestion des stagiaires\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\PackageStagiaires.FormStagiaire.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\Exercices\Exercice 1 - Gestion des stagiaires\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\PackageStagiaires.FormGestionStagiaires.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\Exercices\Exercice 1 - Gestion des stagiaires\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.PackageStagiaires.FormUpdateStagiaire.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.exe
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.pdb
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\bin\Debug\GestionDesStagiaires.exe
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\bin\Debug\GestionDesStagiaires.pdb
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.MenuApplication.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\PackageStagiaires.FormStagiaire.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.PackageStagiaires.FormUpdateStagiaire.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\PackageStagiaires.FormGestionStagiaires.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.Properties.Resources.resources
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Formations\Plate Form .Net\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.exe
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.pdb
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\bin\Debug\GestionDesStagiaires.exe
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\bin\Debug\GestionDesStagiaires.pdb
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.MenuApplication.resources
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\PackageStagiaires.FormStagiaire.resources
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.PackageStagiaires.FormUpdateStagiaire.resources
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\PackageStagiaires.FormGestionStagiaires.resources
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.Properties.Resources.resources
+C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.csproj.GenerateResource.Cache
