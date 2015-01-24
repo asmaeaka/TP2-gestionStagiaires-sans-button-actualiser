@@ -1,0 +1,11 @@
+C:\Users\aka\Documents\GitHub\TP2-gestionStagiaires-sans-button-actualiser\GestionDesStagiaires\bin\Debug\GestionDesStagiaires.exe
+C:\Users\aka\Documents\GitHub\TP2-gestionStagiaires-sans-button-actualiser\GestionDesStagiaires\bin\Debug\GestionDesStagiaires.pdb
+C:\Users\aka\Documents\GitHub\TP2-gestionStagiaires-sans-button-actualiser\GestionDesStagiaires\obj\x86\Debug\AppStagiaire.csprojResolveAssemblyReference.cache
+C:\Users\aka\Documents\GitHub\TP2-gestionStagiaires-sans-button-actualiser\GestionDesStagiaires\obj\x86\Debug\PackageStagiaires.FormStagiaire.resources
+C:\Users\aka\Documents\GitHub\TP2-gestionStagiaires-sans-button-actualiser\GestionDesStagiaires\obj\x86\Debug\PackageStagiaires.FormGestionStagiaires.resources
+C:\Users\aka\Documents\GitHub\TP2-gestionStagiaires-sans-button-actualiser\GestionDesStagiaires\obj\x86\Debug\AppStagiaire.csproj.GenerateResource.Cache
+C:\Users\aka\Documents\GitHub\TP2-gestionStagiaires-sans-button-actualiser\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.exe
+C:\Users\aka\Documents\GitHub\TP2-gestionStagiaires-sans-button-actualiser\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.pdb
+C:\Users\aka\Documents\GitHub\TP2-gestionStagiaires-sans-button-actualiser\GestionDesStagiaires\obj\x86\Debug\AppStagiaire.MenuApplication.resources
+C:\Users\aka\Documents\GitHub\TP2-gestionStagiaires-sans-button-actualiser\GestionDesStagiaires\obj\x86\Debug\AppStagiaire.Properties.Resources.resources
+C:\Users\aka\Documents\GitHub\TP2-gestionStagiaires-sans-button-actualiser\GestionDesStagiaires\obj\x86\Debug\AppStagiaire.PackageStagiaires.FormUpdateStagiaire.resources

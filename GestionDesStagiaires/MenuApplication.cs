@@ -8,7 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using PackageStagiaires;
 
-namespace GestionDesStagiaires
+namespace AppStagiaire
 {
     public partial class MenuApplication : Form
     {
@@ -21,6 +21,11 @@ namespace GestionDesStagiaires
         {
             FormGestionStagiaires f = new FormGestionStagiaires();
             f.Show();
+        }
+
+        private void statusStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
         }
     }
 }

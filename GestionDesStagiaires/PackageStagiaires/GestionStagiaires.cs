@@ -3,10 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace PackageStagiaires
-{
-    public class GestionStagiaires
-    {
+namespace PackageStagiaires{
+    public class GestionStagiaires{
        private static List<Stagiaire> listeStagiaires = new List<Stagiaire>();
 
        static GestionStagiaires() { 

@@ -1,4 +1,4 @@
-﻿namespace GestionDesStagiaires.PackageStagiaires
+﻿namespace AppStagiaire.PackageStagiaires
 {
     partial class FormUpdateStagiaire
     {

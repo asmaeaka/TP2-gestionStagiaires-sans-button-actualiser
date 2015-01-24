@@ -9,16 +9,14 @@ using System.Windows.Forms;
 
 
 namespace PackageStagiaires{
-    public partial class FormStagiaire : Form
-    {
+    public partial class FormStagiaire : Form{
         public FormStagiaire()
         {
             InitializeComponent();
         }
 
         private FormGestionStagiaires formulaireGestionStagiaires;
-        public FormGestionStagiaires FormulaireGestionStagiaires
-        {
+        public FormGestionStagiaires FormulaireGestionStagiaires{
             get { return formulaireGestionStagiaires; }
             set { formulaireGestionStagiaires = value; }
         }
@@ -38,7 +36,6 @@ namespace PackageStagiaires{
 
         private void FormStagiaire_Load(object sender, EventArgs e)
         {
-
         }
     }
 }

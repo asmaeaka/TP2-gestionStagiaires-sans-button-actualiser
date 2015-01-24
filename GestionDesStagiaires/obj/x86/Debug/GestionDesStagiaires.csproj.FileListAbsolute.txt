@@ -32,3 +32,5 @@ C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP2\Gestion des stagiaires s
 C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\PackageStagiaires.FormGestionStagiaires.resources
 C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.Properties.Resources.resources
 C:\Users\ESSARRAJ\Desktop\Module Client Serveur\TPs\TP2\Gestion des stagiaires sans button actualiser\GestionDesStagiaires\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.csproj.GenerateResource.Cache
+C:\Users\aka\Documents\GitHub\TP2-gestionStagiaires-sans-button-actualiser\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.exe
+C:\Users\aka\Documents\GitHub\TP2-gestionStagiaires-sans-button-actualiser\GestionDesStagiaires\obj\x86\Debug\GestionDesStagiaires.pdb

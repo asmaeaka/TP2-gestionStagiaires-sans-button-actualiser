@@ -3,10 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace PackageStagiaires
-{
-    public class Stagiaire
-    {
+namespace PackageStagiaires{
+    public class Stagiaire{
         int id;
         String nom;
         String prenom;
@@ -19,18 +17,15 @@ namespace PackageStagiaires
         public Stagiaire()
         {
         }
-        public int Id
-        {
+        public int Id{
             get { return id; }
             set { id = value; }
         } 
-        public String Nom
-        {
+        public String Nom{
             get { return nom; }
             set { nom = value; }
         }
-        public String Prenom
-        {
+        public String Prenom{
             get { return prenom; }
             set { prenom = value; }
         }

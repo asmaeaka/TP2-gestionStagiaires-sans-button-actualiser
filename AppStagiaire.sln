@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionDesStagiaires", "GestionDesStagiaires\GestionDesStagiaires.csproj", "{DB7E9362-DADB-4896-BBFF-5CF1E8AACBB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppStagiaire", "GestionDesStagiaires\AppStagiaire.csproj", "{DB7E9362-DADB-4896-BBFF-5CF1E8AACBB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
